@@ -8,5 +8,5 @@ while num % 2 == 0:
 
 print(const)
 
-for my_age in range(1, 10, 1):
-    print(my_age)
+#for my_age in range(1, 10, 1):
+    #print(my_age)
