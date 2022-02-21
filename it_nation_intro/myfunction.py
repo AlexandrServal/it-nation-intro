@@ -1,6 +1,6 @@
 
 def get_string():
-    greeting = "Hello, Mate Academy !"
+    greeting = "Hello !"
     return greeting
 
 # write your code below

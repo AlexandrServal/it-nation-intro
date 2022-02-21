@@ -1,4 +1,4 @@
-# add variables with correct values
+
 apples = 4
 pears = 3
 fruits = 0
