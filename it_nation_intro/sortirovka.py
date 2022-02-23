@@ -8,7 +8,7 @@ def is_sorted(box_numbers: list) -> bool:
     new_box = []
     massiv = []
     new_box = box_numbers
-    massiv = sorted(new_box)
+    massiv = sorted(new_box) #сортировать массыв повозростанию sort()
     if box_numbers == massiv:
         return True
     else:

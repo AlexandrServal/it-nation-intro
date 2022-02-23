@@ -5,7 +5,6 @@ def decrypt_message(message: str) -> str:
     pass
 
 def is_werewolf(target: str) -> bool:
-
     new_target = target[::-1]
     return True
     pass

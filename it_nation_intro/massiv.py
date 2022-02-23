@@ -9,7 +9,6 @@ def make_stickers(details_count: int, robot_part: str) -> list:
 
 
 def double_power(current_powers: list) -> list:
-
     massiv = []
     for i in current_powers:
         a = (i)

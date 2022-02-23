@@ -1,8 +1,10 @@
 number = 23454
 massiv = []
+# странный цикл
 while number > 0:
     massiv.append(number % 10)
     number //= 10
+    print(number)
 massiv.reverse()
 print(massiv)  # [1, 2, 3, 4]
 # перобразование числа в массив
